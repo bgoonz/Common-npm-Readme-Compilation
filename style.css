@@ -2,11 +2,7 @@ body {
   max-width: max-content;
   margin: auto;
 }
-.parent {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
+
 /* sass-ified from npm-website */
 .markdown {
   margin: 0;
