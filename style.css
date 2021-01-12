@@ -22372,3 +22372,17 @@ DEALINGS IN THE SOFTWARE.
 ._2125dba0 {
   color: #ffffff;
 }
+pre {
+     text-align: center;
+     font-family: arial;
+     font-size: 20px;
+     padding: 20px;
+     border: 3px solid red;
+     text-align:left;
+     width:800px;
+     border-radius:8px;
+     -webkit-border-radius:8px;
+     -moz-border-radius:8px;
+     -ms-border-radius:8px;
+     -o-border-radius:8px;
+}
