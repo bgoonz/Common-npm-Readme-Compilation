@@ -22386,3 +22386,16 @@ pre {
      -ms-border-radius:8px;
      -o-border-radius:8px;
 }
+.colors {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 1rem;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+@media (max-width: 600px) {
+  .colors {
+    grid-template-columns: 1fr 1fr;
+  }
+}
