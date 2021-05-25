@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/bgoonz/Common-npm-Readme-Compilation#readme",
   "dependencies": {
-    "clipboard": "^2.0.6"
+    "clipboard": "^2.0.8"
   }
 }
